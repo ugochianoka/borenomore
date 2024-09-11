@@ -18,6 +18,9 @@ h4{
     font-weight: bolder;
 }
 
+#activity{
+    color: #FFD700;
+}
 
 h1 {
     animation: bounce 1s infinite;
